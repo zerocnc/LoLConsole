@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LoLConsole.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_APIKEY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">?api_key=b729e826-32bd-4f0a-82b3-c31cd3ece046</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
